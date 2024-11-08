@@ -2,8 +2,10 @@
 Write a brief description of the results and include that int he body of the README.md file.
 
 In JupyterLab, I read the data from the avocado.csv file into a DataFrame in order to analyze the data. 
+
 I used the info() method to see the data type, memory comsuption,and null count information and the results showed that there are 9 float64, 2 int64, and 3 object data types, a memory usage of 1.9+ MB, and that all are non-null.
 The nunique() function I used to see the number of unique values in each column results; 
+
 Unnamed: 0         53
 Date              169
 AveragePrice      259
